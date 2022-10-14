@@ -1,4 +1,4 @@
-# OpenScience Dataverse API C library
+# Open Science Dataverse API C library
 This is a C library for the Dataverse API 
 
 
