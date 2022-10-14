@@ -13,7 +13,8 @@
 ![](https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library/blob/main/dataverse_r_project.png)
 
 This is a C library for the Dataverse API.
-While the initial library is being coded , please refer to the repository below for a C implementation. Thank You.
+
+Imp. note: While the initial library is being coded , please refer to the repository below for a C implementation. Thank You.
 
 https://github.com/aeonSolutions/openScienceResearch-Smart-DAQ-Device-able-to-Upload-Live-Experimental-Sensor-Data-to-a-Data-Repo
 
