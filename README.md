@@ -25,7 +25,7 @@ API | Endpoint | URL | Implemented ?| Notes
 ------|----------|-----|--------------|-------
 Native|Dataverses | - | Y| - 
 | -   | -         | GET `api/dataverses/$id` | Y | -
-| -   | -         | GET `/api/datasets/#id/locks` | Y | -
+| -   | -         | GET `` | N | -
 | -   | -         | DELETE `api/dataverses/$id` | N | -
 | -   | -         | POST `api/dataverses/$id/datasets` | N | -
 | -   | -         | POST `api/dataverses/$identifier/actions/:publish` | N | -
