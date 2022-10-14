@@ -23,13 +23,6 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/aeonSo
 <br>
 <br>
 
-## License
-
-The library is available as open source under the terms of CC share alike non-commercial.
-
-<br>
-<br>
-
 ### Coding standards
 
 Please make sure tests pass before committing, and to add new tests for new additions.
