@@ -55,8 +55,8 @@ Native|Datasets | GET `api/datasets/$id/versions` | N| -
 | -   | -         | POST `PUT api/datasets/$id/actions/:publish?type=$type` | N | -
 Native|MetadataBlocks | GET `api/metadatablocks` | N| -
 | -   | -         | GET ` api/metadatablocks/$identifier` | N| -
-Search | - | GET `api/search` | N | All query params supported, optional data not returned yet.
-Native | Upload file | POST `/api/datasets/:persistentId/add?persistentId=` | Y | - Add a file to a dataset
+Search | - | GET `api/search` | N | -
+Native | Upload file | POST `/api/datasets/:persistentId/add?persistentId=` | Y | Add a file to a dataset
 
 
 <br />
