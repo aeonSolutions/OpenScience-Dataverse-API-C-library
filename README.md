@@ -4,23 +4,36 @@ While the initial library is being coded , please refer to the repository below 
 
 https://github.com/aeonSolutions/openScienceResearch-Smart-DAQ-Device-able-to-Upload-Live-Experimental-Sensor-Data-to-a-Data-Repo
 
+<br>
+<br>
 
 **Dataverse API in another codinhg language**
 
 https://guides.dataverse.org/en/5.12/api/client-libraries.html
 
+<br>
+<br>
+
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [code of conduct](https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library/blob/main/CODE_OF_CONDUCT.md).
+
+<br>
+<br>
 
 ## License
 
 The library is available as open source under the terms of CC share alike non-commercial.
 
+<br>
+<br>
 
 ### Coding standards
 
 Please make sure tests pass before committing, and to add new tests for new additions.
+
+<br>
+<br>
 
 ## Progress
 
