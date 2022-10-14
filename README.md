@@ -23,19 +23,19 @@ Please make sure tests pass before committing, and to add new tests for new addi
 
 API | Endpoint | URL | Implemented ?| Notes 
 ------|----------|-----|--------------|-------
-Native|Dataverses | - | Y| - 
+Native|Dataverses | POST 'api/dataverses/$id' | Y| - 
 | -   | -         | GET `api/dataverses/$id` | Y | -
-| -   | -         | GET `` | N | -
+| -   | -         | GET `api/dataverses/$id/contents` | N | -
 | -   | -         | DELETE `api/dataverses/$id` | N | -
 | -   | -         | POST `api/dataverses/$id/datasets` | N | -
 | -   | -         | POST `api/dataverses/$identifier/actions/:publish` | N | -
 Native|Datasets | POST `` | N| -
-| -   | -         | GET `/api/datasets/$id/locks` | N | -
-| -   | -         | DELETE `` | N | -
-| -   | -         | GET `` | N | -
-| -   | -         | GET `` | N | -
-| -   | -         | POST `` | N | -
-Native|MetadataBlocks | GET ` ` | N| -
-| -   | -         | GET ` ` | N| -
-Search | - | GET `` | N | All query params supported, optional data not returned yet.
+| -   | -         | GET `/api/datasets/$id/locks` | Y | -
+| -   | -         | DELETE `api/datasets/$id` | N | -
+| -   | -         | POST `api/dataverses/$id` | N | -
+| -   | -         | GET `PUT api/datasets/$id/versions/:draft?` | N | -
+| -   | -         | POST `PUT api/datasets/$id/actions/:publish?type=$type` | N | -
+Native|MetadataBlocks | GET `api/metadatablocks` | N| -
+| -   | -         | GET ` api/metadatablocks/$identifier` | N| -
+Search | - | GET `api/search` | N | All query params supported, optional data not returned yet.
 Native | Upload file | POST `/api/datasets/:persistentId/add?persistentId=` | Y | - Add a file to a dataset
