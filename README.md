@@ -40,3 +40,23 @@ Native|MetadataBlocks | GET `api/metadatablocks` | N| -
 | -   | -         | GET ` api/metadatablocks/$identifier` | N| -
 Search | - | GET `api/search` | N | All query params supported, optional data not returned yet.
 Native | Upload file | POST `/api/datasets/:persistentId/add?persistentId=` | Y | - Add a file to a dataset
+
+
+______________________________________________________________________________________________________________________________
+### License
+2022 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+______________________________________________________________________________________________________________________________
+
+<br />
+<br />
+
+### Be supportive of my dedication and work towards technology education and buy me a cup of coffee
+Buy me a cup of coffee, a slice of pizza or a book to help me study, eat and think new PCB design files.
+
+[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="70" />](https://www.buymeacoffee.com/migueltomas)
+
+<br />
+<br />
