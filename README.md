@@ -5,7 +5,9 @@ While the initial library is being coded , please refer to the repository below 
 https://github.com/aeonSolutions/openScienceResearch-Smart-DAQ-Device-able-to-Upload-Live-Experimental-Sensor-Data-to-a-Data-Repo
 
 
+**Dataverse API in another codinhg language**
 
+https://guides.dataverse.org/en/5.12/api/client-libraries.html
 
 ## Contributing
 
