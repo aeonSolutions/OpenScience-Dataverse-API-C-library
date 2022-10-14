@@ -29,7 +29,7 @@ Native|Dataverses | POST 'api/dataverses/$id' | Y| -
 | -   | -         | DELETE `api/dataverses/$id` | N | -
 | -   | -         | POST `api/dataverses/$id/datasets` | N | -
 | -   | -         | POST `api/dataverses/$identifier/actions/:publish` | N | -
-Native|Datasets | POST `` | N| -
+Native|Datasets | GET `api/datasets/$id/versions` | N| -
 | -   | -         | GET `/api/datasets/$id/locks` | Y | -
 | -   | -         | DELETE `api/datasets/$id` | N | -
 | -   | -         | POST `api/dataverses/$id` | N | -
