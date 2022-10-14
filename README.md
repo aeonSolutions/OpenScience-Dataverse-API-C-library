@@ -1,3 +1,6 @@
+
+![](https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library/blob/main/dataverse_r_project.png)
+
 # Open Science Dataverse API C library
 This is a C library for the Dataverse API.
 While the initial library is being coded , please refer to the repository below for a C implementation. Thank You.
