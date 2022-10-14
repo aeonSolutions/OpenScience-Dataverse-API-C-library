@@ -24,8 +24,8 @@ Please make sure tests pass before committing, and to add new tests for new addi
 API | Endpoint | URL | Implemented ?| Notes 
 ------|----------|-----|--------------|-------
 Native|Dataverses | POST `/api/datasets/:persistentId/add?persistentId=` | Y| - 
-| -   | -         | GET `api/dataverses/$id` | N | -
-| -   | -         | GET `api/dataverses/$id/contents` | N | -
+| -   | -         | GET `api/dataverses/$id` | Y | -
+| -   | -         | GET `/api/datasets/#id/locks` | Y | -
 | -   | -         | DELETE `api/dataverses/$id` | N | -
 | -   | -         | POST `api/dataverses/$id/datasets` | N | -
 | -   | -         | POST `api/dataverses/$identifier/actions/:publish` | N | -
