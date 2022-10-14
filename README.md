@@ -23,7 +23,7 @@ Please make sure tests pass before committing, and to add new tests for new addi
 
 API | Endpoint | URL | Implemented ?| Notes 
 ------|----------|-----|--------------|-------
-Native|Dataverses | POST `/api/datasets/:persistentId/add?persistentId=` | Y| - 
+Native|Dataverses | - | Y| - 
 | -   | -         | GET `api/dataverses/$id` | Y | -
 | -   | -         | GET `/api/datasets/#id/locks` | Y | -
 | -   | -         | DELETE `api/dataverses/$id` | N | -
@@ -38,4 +38,4 @@ Native|Datasets | POST `` | N| -
 Native|MetadataBlocks | GET ` ` | N| -
 | -   | -         | GET ` ` | N| -
 Search | - | GET `` | N | All query params supported, optional data not returned yet.
-Native | Upload file | 'Add a file to a dataset' | Y | -
+Native | Upload file | POST `/api/datasets/:persistentId/add?persistentId=` | Y | - Add a file to a dataset
