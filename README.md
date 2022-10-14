@@ -38,4 +38,4 @@ Native|Datasets | POST `` | N| -
 Native|MetadataBlocks | GET ` ` | N| -
 | -   | -         | GET ` ` | N| -
 Search | - | GET `` | N | All query params supported, optional data not returned yet.
-Sword | Upload file | 'Add files to a dataset with a zip file' | N | -
+Native | Upload file | 'Add a file to a dataset' | Y | -
