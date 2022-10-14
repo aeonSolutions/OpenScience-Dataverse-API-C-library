@@ -42,6 +42,9 @@ Search | - | GET `api/search` | N | All query params supported, optional data no
 Native | Upload file | POST `/api/datasets/:persistentId/add?persistentId=` | Y | - Add a file to a dataset
 
 
+<br />
+<br />
+
 ______________________________________________________________________________________________________________________________
 ### License
 2022 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
