@@ -23,7 +23,7 @@ Please make sure tests pass before committing, and to add new tests for new addi
 
 API | Endpoint | URL | Implemented ?| Notes 
 ------|----------|-----|--------------|-------
-Native|Dataverses | POST `/api/datasets/:persistentId/add?persistentId=` | N| - 
+Native|Dataverses | POST `/api/datasets/:persistentId/add?persistentId=` | Y| - 
 | -   | -         | GET `api/dataverses/$id` | N | -
 | -   | -         | GET `api/dataverses/$id/contents` | N | -
 | -   | -         | DELETE `api/dataverses/$id` | N | -
