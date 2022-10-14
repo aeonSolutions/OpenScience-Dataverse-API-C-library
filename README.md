@@ -1,6 +1,6 @@
 # Open Science Dataverse API C library
 This is a C library for the Dataverse API.
-While the initial library is being coded , please refer to this repository for a C implementation. Thank You.
+While the initial library is being coded , please refer to the repository below for a C implementation. Thank You.
 
 https://github.com/aeonSolutions/openScienceResearch-Smart-DAQ-Device-able-to-Upload-Live-Experimental-Sensor-Data-to-a-Data-Repo
 
