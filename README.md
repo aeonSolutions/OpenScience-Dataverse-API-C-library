@@ -19,7 +19,7 @@ The Dataverse Project is an open-source web application to share, preserve, cite
 <br>
 <br>
 
-**Dataverse API in another codinhg language**
+**Dataverse API in another coding language**
 
 Goto dataverse.org for another coding language that best suits your coding style and needs. Currently there are client libraries for Python, Javascript, R, Java, and Julia that can be used to develop against Dataverse Software APIs
 
