@@ -58,6 +58,8 @@ Ask a question or start a discussion: Great place to publicly share feedback, id
 
 Join #dataverse on [chat.dataverse.org](http://chat.dataverse.org/) to chat with the Dataverse community in real time, or leave a message that will be logged at https://view.matrix.org/alias/%23dataverse:matrix.org
 
+[![Dataverse Chat on Matrix](https://img.shields.io/badge/join-matrix-blue.svg?style=for-the-badge)](https://view.matrix.org/alias/%23dataverse:matrix.org)
+
 <br>
 <br>
 
