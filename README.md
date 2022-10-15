@@ -82,8 +82,8 @@ ________________________________________________________________________________
 <br />
 <br />
 
-### Be supportive of my dedication and work towards technology education and buy me a cup of coffee
-Buy me a cup of coffee, a slice of pizza or a book to help me study, eat and think new PCB design files.
+### Be supportive of my dedication and work towards technology and buy me a cup of coffee
+Buy me a cup of coffee, a slice of pizza, or a book to help me study, eat and think of new functionalities to this library.
 
 [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="70" />](https://www.buymeacoffee.com/migueltomas)
 
