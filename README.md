@@ -46,6 +46,20 @@ To learn how to install and use this library, goto the wiki page [here](https://
 <br>
 <br>
 
+## For more general information
+[Email us](mailto:support@dataverse.org) with software installation questions. Please note our response time is generally 24 business hours.
+Follow us on Twitter: [@dataverseorg](https://twitter.com/dataverseorg)
+
+## For developers and Dataverse Repositories
+Report issues and contribute to our code: Report bugs and add feature requests in [GitHub Issues](https://github.com/IQSS/dataverse/issues) or use [GitHub pull requests](http://guides.dataverse.org/en/latest/developers/version-control.html#how-to-make-a-pull-request), if you have some code, scripts or documentation that you'd like to share. If you have a security issue to report, please email [security@dataverse.org](mailto:security@dataverse.org).
+
+Ask a question or start a discussion: Great place to publicly share feedback, ideas, feature requests, and troubleshoot any issues is in the [Dataverse Users Community](https://groups.google.com/forum/#!forum/dataverse-community).
+
+Join #dataverse on [chat.dataverse.org](http://chat.dataverse.org/) to chat with the Dataverse community in real time, or leave a message that will be logged at https://view.matrix.org/alias/%23dataverse:matrix.org
+
+<br>
+<br>
+
 ## Library API Implementation Progress
 
 <br>
