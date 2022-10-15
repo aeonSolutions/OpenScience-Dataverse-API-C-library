@@ -88,6 +88,7 @@ Here is an example of a replication data citation from Political Analysis, Hanme
 
 
 See more detailed information about the Dataverse Project's [Data Citation Standard](https://dataverse.org/best-practices/data-citation).
+
 <br>
 <br>
 
