@@ -82,7 +82,9 @@ A data citation in a Dataverse repository has seven components:
 Here is an example of a replication data citation from Political Analysis, Hanmer, Banks, and White, 2013:
 
 ```
-> Hanmer, Michael J.; Banks, Antoine J., White, Ismail K., 2013, "Replication data for: Experiments to Reduce the Over-reporting of Voting: A Pipeline to the Truth", [doi:10.7910/DVN/22893](http://dx.doi.org/10.7910/DVN/22893), Harvard Dataverse, V2, UNF:5:eJOVAjDU0E0jzSQ2bRCg9g==
+> Hanmer, Michael J.; Banks, Antoine J., White, Ismail K., 2013, "Replication data for:
+> Experiments to Reduce the Over-reporting of Voting: A Pipeline to the Truth",
+> [doi:10.7910/DVN/22893](http://dx.doi.org/10.7910/DVN/22893), Harvard Dataverse, V2, UNF:5:eJOVAjDU0E0jzSQ2bRCg9g==
 ```
 See more detailed information about the Dataverse Project's [Data Citation Standard](https://dataverse.org/best-practices/data-citation).
 <br>
