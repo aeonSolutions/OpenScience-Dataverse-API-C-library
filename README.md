@@ -63,6 +63,31 @@ Join #dataverse on [chat.dataverse.org](http://chat.dataverse.org/) to chat with
 <br>
 <br>
 
+## Academic Credit
+By depositing data into a Dataverse repository, which can be customized or embedded into a website with our [Theme + Widgets](http://guides.dataverse.org/en/latest/user/dataverse-management.html?#general-information) feature, researchers make their datasets more discoverable to the scientific community. [Widgets](http://guides.dataverse.org/en/latest/user/dataverse-management.html?#general-information) are available at the Dataverse collection and dataset level and can be embedded in any website to help others find a scholar's datasets more easily.
+
+By increasing research data's visibility with the Dataverse Project, researchers can get recognition and proper academic credit for their scholarly work through a [data citation](https://dataverse.org/best-practices/data-citation). These citations also help ensure that when research data is published, funder and publisher requirements are met, and data is reused by other scholars, replicated for verification, and tracked to measure usage and impact over time, which can help fund future research.
+
+ 
+
+A data citation in a Dataverse repository has seven components:
+- author name(s)
+- year (date published in the Dataverse repository)
+- title
+- global persistent identifier: [DOI](http://www.doi.org/) or [Handle](http://handle.net/)
+- publisher (repository that published the dataset)
+- version number
+- [universal numerical fingerprint](http://guides.dataverse.org/en/latest/developers/unf/index.html) (UNF): for tabular data
+
+Here is an example of a replication data citation from Political Analysis, Hanmer, Banks, and White, 2013:
+
+```
+Hanmer, Michael J.; Banks, Antoine J., White, Ismail K., 2013, "Replication data for: Experiments to Reduce the Over-reporting of Voting: A Pipeline to the Truth", [doi:10.7910/DVN/22893](http://dx.doi.org/10.7910/DVN/22893), Harvard Dataverse, V2, UNF:5:eJOVAjDU0E0jzSQ2bRCg9g==
+```
+See more detailed information about the Dataverse Project's [Data Citation Standard](https://dataverse.org/best-practices/data-citation).
+<br>
+<br>
+
 ## Library API Implementation Progress
 
 <br>
