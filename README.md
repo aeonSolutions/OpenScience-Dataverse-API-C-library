@@ -53,19 +53,19 @@ To learn how to install and use this library, goto the wiki page [here](https://
 API | Endpoint | URL | Implemented ?| Notes 
 ------|----------|-----|--------------|-------
 Native|Dataverses | POST 'api/dataverses/$id' | Y| - 
-| -   | -         | GET `api/dataverses/$id` | Y | -
-| -   | -         | GET `api/dataverses/$id/contents` | N | -
+| -   | -         | GET `api/dataverses/$id` | Y | ✓ Wiki
+| -   | -         | GET `api/dataverses/$id/contents` | N | ✓ Wiki
 | -   | -         | DELETE `api/dataverses/$id` | N | -
 | -   | -         | POST `api/dataverses/$id/datasets` | N | -
 | -   | -         | POST `api/dataverses/$identifier/actions/:publish` | N | -
-Native|Datasets | GET `api/datasets/$id/versions` | N| -
+Native|Datasets | GET `api/datasets/$id/versions` | N| ✓ Wiki
 | -   | -         | GET `/api/datasets/$id/locks` | Y | ✓ Wiki
 | -   | -         | DELETE `api/datasets/$id` | N | -
 | -   | -         | POST `api/dataverses/$id` | N | -
-| -   | -         | GET `PUT api/datasets/$id/versions/:draft?` | N | -
+| -   | -         | GET `PUT api/datasets/$id/versions/:draft?` | N | ✓ Wiki
 | -   | -         | POST `PUT api/datasets/$id/actions/:publish?type=$type` | N | -
-Native|MetadataBlocks | GET `api/metadatablocks` | N| -
-| -   | -         | GET ` api/metadatablocks/$identifier` | N| -
+Native|MetadataBlocks | GET `api/metadatablocks` | N| ✓ Wiki
+| -   | -         | GET ` api/metadatablocks/$identifier` | N| ✓ Wiki
 Search | - | GET `api/search` | N | -
 Native | Upload file | POST `/api/datasets/:persistentId/add?persistentId=` | Y | Add a file to a dataset
 
