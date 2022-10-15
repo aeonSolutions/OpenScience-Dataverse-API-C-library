@@ -9,11 +9,10 @@
 
 
 # Open Science Dataverse API C library
-### Official Dataverse chat: [![Dataverse Chat on Matrix](https://img.shields.io/badge/join-matrix-blue.svg?style=for-the-badge)](https://view.matrix.org/alias/%23dataverse:matrix.org)
 
 [![](https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library/blob/main/dataverse_r_project.png)](https://dataverse.org)
 
-This is a C library for the Dataverse API.
+This is a C library for the Dataverse API. The Official Dataverse chat: [![Dataverse Chat on Matrix](https://img.shields.io/badge/join-matrix-blue.svg?style=for-the-badge)](https://view.matrix.org/alias/%23dataverse:matrix.org)
 
 The Dataverse Project is an open-source web application to share, preserve, cite, explore, and analyze research data. It facilitates making data available to others and allows you to replicate others' work more easily. Researchers, journals, data authors, publishers, data distributors, and affiliated institutions all receive academic credit and web visibility. Funded by Harvard University and Powered by Open Scholar.
 
