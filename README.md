@@ -52,7 +52,7 @@ To learn how to install and use this library, goto the wiki page [here](https://
 
 Wiki | Endpoint | URL | Implemented ?| Notes 
 ------|----------|-----|--------------|-------
-| Dataverses | POST 'api/dataverses/$id' | Y| - 
+- | Dataverses | POST 'api/dataverses/$id' | Y| - 
  ✓ | -   | -         | GET `api/dataverses/$id` | Y | -
  ✓ | -   | -         | GET `api/dataverses/$id/contents` | Y | -
 | -   | -         | DELETE `api/dataverses/$id` | N | -
