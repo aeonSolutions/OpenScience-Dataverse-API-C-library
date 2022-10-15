@@ -7,7 +7,7 @@
 </a>
 ![](https://views.whatilearened.today/views/github/aeonSolutions/OpenScience-Dataverse-API-C-library.svg)
 
-[![Dataverse Chat on Matrix](https://img.shields.io/badge/join-matrix-blue.svg?style=for-the-badge)](https://view.matrix.org/alias/%23dataverse:matrix.org)
+Dataverse chat [![Dataverse Chat on Matrix](https://img.shields.io/badge/join-matrix-blue.svg?style=for-the-badge)](https://view.matrix.org/alias/%23dataverse:matrix.org)
 
 
 # Open Science Dataverse API C library
