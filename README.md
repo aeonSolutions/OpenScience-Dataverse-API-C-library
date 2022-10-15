@@ -59,7 +59,7 @@ Native|Dataverses | POST 'api/dataverses/$id' | Y| -
 | -   | -         | POST `api/dataverses/$id/datasets` | N | -
 | -   | -         | POST `api/dataverses/$identifier/actions/:publish` | N | -
 Native|Datasets | GET `api/datasets/$id/versions` | N| -
-| -   | -         | GET `/api/datasets/$id/locks` | Y | -
+| -   | -         | GET `/api/datasets/$id/locks` | Y | -  ✓Wiki
 | -   | -         | DELETE `api/datasets/$id` | N | -
 | -   | -         | POST `api/dataverses/$id` | N | -
 | -   | -         | GET `PUT api/datasets/$id/versions/:draft?` | N | -
