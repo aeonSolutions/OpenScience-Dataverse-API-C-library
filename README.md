@@ -50,24 +50,23 @@ To learn how to install and use this library, goto the wiki page [here](https://
 
 <br>
 
-API | Endpoint | URL | Implemented ?| Notes 
+Wiki | Endpoint | URL | Implemented ?| Notes 
 ------|----------|-----|--------------|-------
-Native|Dataverses | POST 'api/dataverses/$id' | Y| - 
-| -   | -         | GET `api/dataverses/$id` | Y | ✓ Wiki
-| -   | -         | GET `api/dataverses/$id/contents` | Y | ✓ Wiki
+|Dataverses | POST 'api/dataverses/$id' | Y| - 
+ ✓ | -   | -         | GET `api/dataverses/$id` | Y | -
+ ✓ | -   | -         | GET `api/dataverses/$id/contents` | Y | -
 | -   | -         | DELETE `api/dataverses/$id` | N | -
 | -   | -         | POST `api/dataverses/$id/datasets` | N | -
 | -   | -         | POST `api/dataverses/$identifier/actions/:publish` | N | -
-Native|Datasets | GET `api/datasets/$id/versions` | Y| ✓ Wiki
-| -   | -         | GET `/api/datasets/$id/locks` | Y | ✓ Wiki
+ ✓ |Datasets | GET `api/datasets/$id/versions` | Y| -
+ ✓ | -   | -         | GET `/api/datasets/$id/locks` | Y | -
 | -   | -         | DELETE `api/datasets/$id` | N | -
 | -   | -         | POST `api/dataverses/$id` | N | -
-| -   | -         | GET `PUT api/datasets/$id/versions/:draft?` | Y | ✓ Wiki
+ ✓ | -   | -         | GET `PUT api/datasets/$id/versions/:draft?` | Y | -
 | -   | -         | POST `PUT api/datasets/$id/actions/:publish?type=$type` | N | -
-Native|MetadataBlocks | GET `api/metadatablocks` | Y| ✓ Wiki
-| -   | -         | GET ` api/metadatablocks/$identifier` | Y| ✓ Wiki
-Search | - | GET `api/search` | N | -
-Native | Upload file | POST `/api/datasets/:persistentId/add?persistentId=` | Y | Add a file to a dataset
+ ✓ |MetadataBlocks | GET `api/metadatablocks` | Y| -
+ ✓ | -   | -         | GET ` api/metadatablocks/$identifier` | Y| -
+| Upload file | POST `/api/datasets/:persistentId/add?persistentId=` | Y | Add a file to a dataset
 
 
 <br />
