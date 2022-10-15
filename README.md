@@ -46,7 +46,7 @@ To learn how to install and use this library, goto the wiki page [here](https://
 <br>
 <br>
 
-## Progress
+## Library API Implementation Progress
 
 <br>
 
