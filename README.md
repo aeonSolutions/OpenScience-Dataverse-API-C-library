@@ -36,9 +36,6 @@ https://guides.dataverse.org/en/5.12/api/client-libraries.html
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [code of conduct](https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library/blob/main/CODE_OF_CONDUCT.md).
 
-<br>
-<br>
-
 ### Coding standards
 
 Please make sure tests pass before committing, and to add new tests for new additions.
@@ -46,7 +43,7 @@ Please make sure tests pass before committing, and to add new tests for new addi
 <br>
 <br>
 
-## Instalation & Usage
+## Instalation & usage
 
 To learn how to install and use this library, goto the wiki page [here](https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library/wiki/OpenScience-Dataverse-API-C-library-Wiki) or by clicking on the top menu.
 
