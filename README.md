@@ -46,6 +46,13 @@ Please make sure tests pass before committing, and to add new tests for new addi
 <br>
 <br>
 
+## Instalation & Usage
+
+To learn how to install and use this library, goto the wiki page [here](https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library/wiki/OpenScience-Dataverse-API-C-library-Wiki) or by clicking on the top menu.
+
+<br>
+<br>
+
 ## Progress
 
 API | Endpoint | URL | Implemented ?| Notes 
