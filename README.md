@@ -16,10 +16,6 @@ This is a C library for the Dataverse API.
 
 The Dataverse Project is an open-source web application to share, preserve, cite, explore, and analyze research data. It facilitates making data available to others and allows you to replicate others' work more easily. Researchers, journals, data authors, publishers, data distributors, and affiliated institutions all receive academic credit and web visibility. Funded by Harvard University and Powered by Open Scholar.
 
-Imp. note: While the initial library is being coded , please refer to the repository below for a C implementation. Thank You.
-
-https://github.com/aeonSolutions/openScienceResearch-Smart-DAQ-Device-able-to-Upload-Live-Experimental-Sensor-Data-to-a-Data-Repo
-
 <br>
 <br>
 
