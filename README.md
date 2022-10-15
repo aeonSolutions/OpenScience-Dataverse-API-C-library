@@ -63,7 +63,7 @@ Join #dataverse on [chat.dataverse.org](http://chat.dataverse.org/) to chat with
 <br>
 <br>
 
-## Academic Credit
+## Academic Credit & Best Practices
 By depositing data into a Dataverse repository, which can be customized or embedded into a website with our [Theme + Widgets](http://guides.dataverse.org/en/latest/user/dataverse-management.html?#general-information) feature, researchers make their datasets more discoverable to the scientific community. [Widgets](http://guides.dataverse.org/en/latest/user/dataverse-management.html?#general-information) are available at the Dataverse collection and dataset level and can be embedded in any website to help others find a scholar's datasets more easily.
 
 By increasing research data's visibility with the Dataverse Project, researchers can get recognition and proper academic credit for their scholarly work through a [data citation](https://dataverse.org/best-practices/data-citation). These citations also help ensure that when research data is published, funder and publisher requirements are met, and data is reused by other scholars, replicated for verification, and tracked to measure usage and impact over time, which can help fund future research.
