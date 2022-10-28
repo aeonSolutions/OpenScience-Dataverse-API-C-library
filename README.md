@@ -46,6 +46,9 @@ Please make sure tests pass before committing, and to add new tests for new addi
 
 To learn how to install and use this library, goto the wiki page [here](https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library/wiki) or by clicking on the top menu.
 
+There's an ongoing research project to develop a "Proof of Concept of a Smart DAQ Device able to Upload Live Experimental Sensor Data to a Data Repository with a Unique Data Fingerprint" with a practical application of rhis C library. Link below: 
+[](https://github.com/aeonSolutions/openScienceResearch-Smart-DAQ-Device-able-to-Upload-Live-Experimental-Sensor-Data-to-a-Data-Repo)
+
 <br>
 <br>
 
