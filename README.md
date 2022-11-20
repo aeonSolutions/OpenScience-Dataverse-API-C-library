@@ -15,7 +15,8 @@
 This is a C library for the Dataverse API. 
 
 **current version:** 0.5
-**most recent update:** Wiki about Oversampling-&-Decimation
+
+**most recent update:** Wiki about Oversampling-&-Decimation (summary)
 
 The Dataverse Project is an open-source web application to share, preserve, cite, explore, and analyze research data. It facilitates making data available to others and allows you to replicate others' work more easily. Researchers, journals, data authors, publishers, data distributors, and affiliated institutions all receive academic credit and web visibility. Funded by Harvard University and Powered by Open Scholar.
 
