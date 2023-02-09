@@ -7,7 +7,6 @@
 </a>
 ![](https://views.whatilearened.today/views/github/aeonSolutions/OpenScience-Dataverse-API-C-library.svg)
 
-[![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/openscience-dataverse-api-c-library/badge)](https://www.codefactor.io/repository/github/aeonsolutions/openscience-dataverse-api-c-library)
 
 # Open Science Dataverse API C library
 
@@ -15,7 +14,7 @@
 
 This is a C library for the Dataverse API. 
 
-**current version:** 0.5
+**current version:** 0.5 [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/openscience-dataverse-api-c-library/badge)](https://www.codefactor.io/repository/github/aeonsolutions/openscience-dataverse-api-c-library)
 
 **most recent update:** Wiki about Oversampling-&-Decimation (summary)
 
