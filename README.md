@@ -12,7 +12,7 @@
 
 <p align="center">
  <a href="https://dataverse.org">
- <img src="https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library/blob/main/dataverse_r_project.png"  height="200">
+ <img src="https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library/blob/main/dataverse_r_project.png"  height="100">
  </a>
   </p>
 
