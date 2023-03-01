@@ -11,8 +11,10 @@
 # Open Science Dataverse API C library
 
 <p align="center">
- <img src="https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library/blob/main/dataverse_r_project.png)](https://dataverse.org" height="200">
-</p>
+ <a href="https://dataverse.org">
+ <img src="https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library/blob/main/dataverse_r_project.png"  height="200">
+ </a>
+  </p>
 
 This is a C library for the Dataverse API. 
 
