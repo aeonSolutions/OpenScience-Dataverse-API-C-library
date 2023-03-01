@@ -58,7 +58,7 @@ There's an ongoing research project to develop a "[Proof of Concept of a Smart D
 <br>
 
 ## For more general information
-[Email us](mailto:support@dataverse.org) with software installation questions. Please note our response time is generally 24 business hours.
+[Email Dataverse.org](mailto:support@dataverse.org) with software installation questions. Please note our response time is generally 24 business hours.
 Follow us on Twitter: [@dataverseorg](https://twitter.com/dataverseorg)
 
 ## For developers and Dataverse Repositories
