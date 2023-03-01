@@ -58,11 +58,11 @@ There's an ongoing research project to develop a "[Proof of Concept of a Smart D
 <br>
 
 ## For more general information
-[Email Dataverse.org](mailto:support@dataverse.org) with software installation questions. Please note our response time is generally 24 business hours.
+[Email Dataverse.org](mailto:support@dataverse.org) with software installation questions. Please note, response time is generally 24 business hours.
 Follow Dataverse.org on Twitter: [@dataverseorg](https://twitter.com/dataverseorg)
 
 ## For developers and Dataverse Repositories
-Report issues and contribute to our code: Report bugs and add feature requests in [GitHub Issues](https://github.com/IQSS/dataverse/issues) or use [GitHub pull requests](http://guides.dataverse.org/en/latest/developers/version-control.html#how-to-make-a-pull-request), if you have some code, scripts or documentation that you'd like to share. If you have a security issue to report, please email [security@dataverse.org](mailto:security@dataverse.org).
+Report issues and contribute to dataverse.org's code: Report bugs and add feature requests in [GitHub Issues](https://github.com/IQSS/dataverse/issues) or use [GitHub pull requests](http://guides.dataverse.org/en/latest/developers/version-control.html#how-to-make-a-pull-request), if you have some code, scripts or documentation that you'd like to share. If you have a security issue to report, please email [security@dataverse.org](mailto:security@dataverse.org).
 
 Ask a question or start a discussion: Great place to publicly share feedback, ideas, feature requests, and troubleshoot any issues is in the [Dataverse Users Community](https://groups.google.com/forum/#!forum/dataverse-community).
 
@@ -74,7 +74,7 @@ Join #dataverse on [chat.dataverse.org](http://chat.dataverse.org/) to chat with
 <br>
 
 ## Academic Credit & Best Practices
-By depositing data into a Dataverse repository, which can be customized or embedded into a website with our [Theme + Widgets](http://guides.dataverse.org/en/latest/user/dataverse-management.html?#general-information) feature, researchers make their datasets more discoverable to the scientific community. [Widgets](http://guides.dataverse.org/en/latest/user/dataverse-management.html?#general-information) are available at the Dataverse collection and dataset level and can be embedded in any website to help others find a scholar's datasets more easily.
+By depositing data into a Dataverse repository, which can be customized or embedded into a website with Dataverse.org's [Theme + Widgets](http://guides.dataverse.org/en/latest/user/dataverse-management.html?#general-information) feature, researchers make their datasets more discoverable to the scientific community. [Widgets](http://guides.dataverse.org/en/latest/user/dataverse-management.html?#general-information) are available at the Dataverse collection and dataset level and can be embedded in any website to help others find a scholar's datasets more easily.
 
 By increasing research data's visibility with the Dataverse Project, researchers can get recognition and proper academic credit for their scholarly work through a [data citation](https://dataverse.org/best-practices/data-citation). These citations also help ensure that when research data is published, funder and publisher requirements are met, and data is reused by other scholars, replicated for verification, and tracked to measure usage and impact over time, which can help fund future research.
 
