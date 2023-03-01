@@ -59,7 +59,7 @@ There's an ongoing research project to develop a "[Proof of Concept of a Smart D
 
 ## For more general information
 [Email Dataverse.org](mailto:support@dataverse.org) with software installation questions. Please note our response time is generally 24 business hours.
-Follow us on Twitter: [@dataverseorg](https://twitter.com/dataverseorg)
+Follow Dataverse.org on Twitter: [@dataverseorg](https://twitter.com/dataverseorg)
 
 ## For developers and Dataverse Repositories
 Report issues and contribute to our code: Report bugs and add feature requests in [GitHub Issues](https://github.com/IQSS/dataverse/issues) or use [GitHub pull requests](http://guides.dataverse.org/en/latest/developers/version-control.html#how-to-make-a-pull-request), if you have some code, scripts or documentation that you'd like to share. If you have a security issue to report, please email [security@dataverse.org](mailto:security@dataverse.org).
