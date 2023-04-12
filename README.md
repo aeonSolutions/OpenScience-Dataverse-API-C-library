@@ -18,7 +18,7 @@
 
 This is a C library for the Dataverse API. 
 
-**current version:** 0.5 [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/openscience-dataverse-api-c-library/badge)](https://www.codefactor.io/repository/github/aeonsolutions/openscience-dataverse-api-c-library)
+[![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/openscience-dataverse-api-c-library/badge)](https://www.codefactor.io/repository/github/aeonsolutions/openscience-dataverse-api-c-library) **current version:** 0.5 
 
 **most recent update:** Wiki about Oversampling-&-Decimation (summary)
 
