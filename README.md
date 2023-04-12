@@ -8,7 +8,7 @@
 ![](https://views.whatilearened.today/views/github/aeonSolutions/OpenScience-Dataverse-API-C-library.svg)
 
 
-# Open Science Dataverse API C library
+# Dataverse API C library
 
 <p align="center">
  <a href="https://dataverse.org">
