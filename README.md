@@ -128,20 +128,39 @@ Wiki? | Endpoint | URL | Implemented?| Notes
 <br />
 <br />
 
+<br />
+<br />
+
+## Author
+
+You can get in touch with me on my LinkedIn Profile:
+
+#### Miguel Tomas
+
+[![LinkedIn Link](https://img.shields.io/badge/Connect-Miguel--Tomas-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect)](https://www.linkedin.com/in/migueltomas/)
+
+
+You can also follow my GitHub Profile to stay updated about my latest projects: [![GitHub Follow](https://img.shields.io/badge/Connect-Miguel--Tomas-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/aeonSolutions)
+
+<br>
+
+### Be supportive of my dedication and work towards technology education and buy me a cup of coffee
+The PCB Desgin Files i provide here for anyone to use are free. If you like this Smart Device or use it, please consider buying me a cup of coffee, a slice of pizza or a book to help me study, eat and think new PCB design files.
+
+<p align+"left">
+<a href="https://www.buymeacoffee.com/migueltomas">
+   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" />
+ </a>
+<br>
+<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Designs/bmc_qr.png" height="130">
+</p>
+
+<br>
 ______________________________________________________________________________________________________________________________
 ### License
 
 Before proceeding to download any of AeonLabs software solutions for open-source development and/or PCB hardware electronics development make sure you are choosing the right license for your project. See [AeonLabs Solutions for Open Hardware & Source Development](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/AeonLabs-Solutions-for-Open-Hardware-&-Source-Development) for more information. 
 
+
+
 ______________________________________________________________________________________________________________________________
-
-<br />
-<br />
-
-### Be supportive of my dedication and work towards technology and buy me a cup of coffee
-Buy me a cup of coffee, a slice of pizza, or a book to help me study, eat and think of new functionalities to this library.
-
-[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="70" />](https://www.buymeacoffee.com/migueltomas)
-
-<br />
-<br />
