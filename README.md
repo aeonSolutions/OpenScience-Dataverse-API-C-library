@@ -10,7 +10,7 @@
 ![](https://views.whatilearened.today/views/github/aeonSolutions/OpenScience-Dataverse-API-C-library.svg)
 
 
-# Dataverse API C library
+# Dataverse API C++ library
 **current project Total: > 300 work.h**
 
 <p align="center">
