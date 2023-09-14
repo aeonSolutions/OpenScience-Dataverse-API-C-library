@@ -10,19 +10,21 @@
 ![](https://views.whatilearened.today/views/github/aeonSolutions/OpenScience-Dataverse-API-C-library.svg)
 
 
-# Dataverse API C++ library
-**current project Total: > 300 work.h**
+# [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/openscience-dataverse-api-c-library/badge)](https://www.codefactor.io/repository/github/aeonsolutions/openscience-dataverse-api-c-library) Dataverse API C++ library
+
+ **current project Total: > 300 work.h** <br>
+**current version:** 0.5 
+
 
 <p align="center">
- <a href="https://dataverse.org">
- <img src="https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library/blob/main/dataverse_r_project.png"  height="100">
- </a>
-  </p>
-
-
-[![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/openscience-dataverse-api-c-library/badge)](https://www.codefactor.io/repository/github/aeonsolutions/openscience-dataverse-api-c-library) **current version:** 0.5 
+   <a href="https://dataverse.org">
+     <img src="https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library/blob/main/dataverse_r_project.png"  height="100">
+   </a>
+</p>
 
 **I start working on this again next month of November 2023**
+
+This is a C++ based library intended for embbeded firmware development, however it can be easily ported and made compatible with any platform or operating systems. see the WIKI for more information.
 
 <br>
 
