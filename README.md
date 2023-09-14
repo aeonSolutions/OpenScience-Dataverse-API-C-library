@@ -24,7 +24,7 @@
 
 **I start working on this again next month of November 2023**
 
-This is a C++ based library intended for embbeded firmware development, however it can be easily ported and made compatible with any platform or operating systems. see the WIKI for more information.
+This is a C++ based library intended for embbeded firmware development, however it can be easily ported and made compatible with any platform or operating systems. see the [WIKI](https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library/wiki) for more information.
 
 <br>
 
