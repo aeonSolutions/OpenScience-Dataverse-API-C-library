@@ -22,7 +22,7 @@
 
 [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/openscience-dataverse-api-c-library/badge)](https://www.codefactor.io/repository/github/aeonsolutions/openscience-dataverse-api-c-library) **current version:** 0.5 
 
-**I start working on this again next month of June 2023**
+**I start working on this again next month of November 2023**
 
 <br>
 
