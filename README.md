@@ -41,17 +41,17 @@ Goto dataverse.org for another coding language that best suits your coding style
 https://guides.dataverse.org/en/5.12/api/client-libraries.html
 
 <br>
-<br>
 
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [code of conduct](https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library/blob/main/CODE_OF_CONDUCT.md). Don't forget to read [AeonLabs's Wiki](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki) before using any code or electronics available here on Github. Thank you.
 
+<br>
+
 ### Coding standards
 
 Please make sure tests pass before committing, and to add new tests for new additions.
 
-<br>
 <br>
 
 ## Instalation & usage
@@ -61,11 +61,12 @@ To learn how to install and use this library, goto the wiki page [here](https://
 There's an ongoing research project to develop a "[Proof of Concept of a Smart DAQ Device able to Upload Live Experimental Sensor Data to a Data Repository with a Unique Data Fingerprint](https://github.com/aeonSolutions/openScienceResearch-Smart-DAQ-Device-able-to-Upload-Live-Experimental-Sensor-Data-to-a-Data-Repo)"  that discusses an innovative proof-of-concept method for management of collected experimental data in real-time and compatible with any open environment. The proposed proof-of-concept smart DAQ device has the minimum hardware characteristics to handle data measurements collection from sensors locally connected to it, store it on a local CSV or SQLite database file and finally connect and synchronize data measurements collected with a data repository hosted remotely on a Dataverse. 
 
 <br>
-<br>
 
 ## For more general information
 [Email Dataverse.org](mailto:support@dataverse.org) with software installation questions. Please note, response time is generally 24 business hours.
 Follow Dataverse.org on Twitter: [@dataverseorg](https://twitter.com/dataverseorg)
+
+<br>
 
 ## For developers and Dataverse Repositories
 Report issues and contribute to dataverse.org's code: Report bugs and add feature requests in [GitHub Issues](https://github.com/IQSS/dataverse/issues) or use [GitHub pull requests](http://guides.dataverse.org/en/latest/developers/version-control.html#how-to-make-a-pull-request), if you have some code, scripts or documentation that you'd like to share. If you have a security issue to report, please email [security@dataverse.org](mailto:security@dataverse.org).
@@ -77,14 +78,12 @@ Join #dataverse on [chat.dataverse.org](http://chat.dataverse.org/) to chat with
 [![Dataverse Chat on Matrix](https://img.shields.io/badge/join-matrix-blue.svg?style=for-the-badge)](https://view.matrix.org/alias/%23dataverse:matrix.org)
 
 <br>
-<br>
 
 ## Academic Credit & Best Practices
 By depositing data into a Dataverse repository, which can be customized or embedded into a website with Dataverse.org's [Theme + Widgets](http://guides.dataverse.org/en/latest/user/dataverse-management.html?#general-information) feature, researchers make their datasets more discoverable to the scientific community. [Widgets](http://guides.dataverse.org/en/latest/user/dataverse-management.html?#general-information) are available at the Dataverse collection and dataset level and can be embedded in any website to help others find a scholar's datasets more easily.
 
 By increasing research data's visibility with the Dataverse Project, researchers can get recognition and proper academic credit for their scholarly work through a [data citation](https://dataverse.org/best-practices/data-citation). These citations also help ensure that when research data is published, funder and publisher requirements are met, and data is reused by other scholars, replicated for verification, and tracked to measure usage and impact over time, which can help fund future research.
 
- 
 
 A data citation in a Dataverse repository has seven components:
 - author name(s)
@@ -105,7 +104,6 @@ Here is an example of a replication data citation from Political Analysis, Hanme
 
 See more detailed information about the Dataverse Project's [Data Citation Standard](https://dataverse.org/best-practices/data-citation).
 
-<br>
 <br>
 
 ## Library API Implementation Progress
@@ -130,9 +128,6 @@ Wiki? | Endpoint | URL | Implemented?| Notes
 | ✓   | -         | GET ` api/metadatablocks/$identifier` | Y| -
 | | Upload file | POST `/api/datasets/:persistentId/add?persistentId=` | Y | Add a file to a dataset
 
-
-<br />
-<br />
 
 <br />
 <br />
