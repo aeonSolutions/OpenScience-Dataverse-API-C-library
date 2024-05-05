@@ -27,9 +27,9 @@ Goto <a href="https://github.com/aeonSolutions/Open-Scientific-Research">Open Sc
    </a>
 </p>
 
-**I start working on this again next month of November 2023**
+**I start working again on this project later this year in 2024**. In the meantime looking for sponsors to pay for the required work necessary for the successful completion of this project. 
 
-This is a C++ based library intended for embbeded firmware development, however it can be easily ported and made compatible with any platform or operating systems. see the [WIKI](https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library/wiki) for more information.
+This is a C++-based library intended for embedded firmware development, however, it can be easily ported and made compatible with any platform or operating system. see the [WIKI](https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library/wiki) for more information.
 
 <br>
 
@@ -41,7 +41,7 @@ The Official Dataverse chat: [![Dataverse Chat on Matrix](https://img.shields.io
 
 **Dataverse API in another coding language**
 
-Goto dataverse.org for another coding language that best suits your coding style and needs. Currently there are client libraries for Python, Javascript, R, Java, and Julia that can be used to develop against Dataverse Software APIs
+Goto dataverse.org for another coding language that best suits your coding style and needs. Currently, there are client libraries for Python, Javascript, R, Java, and Julia that can be used to develop against Dataverse Software APIs
 
 https://guides.dataverse.org/en/5.12/api/client-libraries.html
 
