@@ -10,7 +10,7 @@
 **Navigation** | [AeonLabs Main Index](https://github.com/aeonSolutions/aeonSolutions/blob/main/aeonSolutions-Main-Index.md)   >>  [Main Page - Open Source Code Software](https://github.com/aeonSolutions/aeonlabs-open-software-catalogue)  >>  Dataverse API C library
 
 <div align="right">
-Goto <a href="https://github.com/aeonSolutions/Open-Scientific-Research">Open Science Research</a> &nbsp; Last update 15-11-2023 <br>
+Goto <a href="https://github.com/aeonSolutions/Open-Scientific-Research">Open Science Research</a> &nbsp; Last update 26-08-2024 <br>
   <a href="https://github-com.translate.goog/aeonSolutions/OpenScience-Dataverse-API-C-library/tree/main?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Change Language</a> <br>
 </div>
 
@@ -37,6 +37,10 @@ The Dataverse Project is an open-source web application to share, preserve, cite
 The Official Dataverse chat: [![Dataverse Chat on Matrix](https://img.shields.io/badge/join-matrix-blue.svg?style=for-the-badge)](https://view.matrix.org/alias/%23dataverse:matrix.org)
 <br>
 <br>
+
+**Test the API** <br>
+There's a test code .ino file available for Arduino-compatible microcontrollers, such as EspressIF's ESP32, to test connectivity with a dataverse API. Link to the code: <br>
+https://github.com/aeonSolutions/Aeonlabs-Arduino_Hardware_Test_Code/tree/main/dataverse_api_test_upload
 
 **Dataverse API in another coding language**
 
