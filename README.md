@@ -34,8 +34,12 @@ This is a C++-based library intended for embedded firmware development, however,
 
 The Dataverse Project is an open-source web application to share, preserve, cite, explore, and analyze research data. It facilitates making data available to others and allows you to replicate others' work more easily. Researchers, journals, data authors, publishers, data distributors, and affiliated institutions all receive academic credit and web visibility. Funded by Harvard University and Powered by Open Scholar.
 
-The Official Dataverse chat: [![Dataverse Chat on Matrix](https://img.shields.io/badge/join-matrix-blue.svg?style=for-the-badge)](https://view.matrix.org/alias/%23dataverse:matrix.org)
-<br>
+<div align="center">
+ 
+The Official Dataverse chat <br> [![Dataverse Chat on Matrix](https://img.shields.io/badge/join-Dataverse-blue.svg?style=for-the-badge)](https://chat.dataverse.org/)
+
+</div>
+
 <br>
 
 **Test the API** <br>
@@ -64,14 +68,14 @@ Please make sure tests pass before committing, and to add new tests for new addi
 
 ## Instalation & usage
 
-To learn how to install and use this library, goto the wiki page [here](https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library/wiki) or by clicking on the top menu.
+To learn how to install and use this library, go to the wiki page [here](https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library/wiki) or by clicking on the top menu.
 
 There's an ongoing research project to develop a "[Proof of Concept of a Smart DAQ Device able to Upload Live Experimental Sensor Data to a Data Repository with a Unique Data Fingerprint](https://github.com/aeonSolutions/openScienceResearch-Smart-DAQ-Device-able-to-Upload-Live-Experimental-Sensor-Data-to-a-Data-Repo)"  that discusses an innovative proof-of-concept method for management of collected experimental data in real-time and compatible with any open environment. The proposed proof-of-concept smart DAQ device has the minimum hardware characteristics to handle data measurements collection from sensors locally connected to it, store it on a local CSV or SQLite database file and finally connect and synchronize data measurements collected with a data repository hosted remotely on a Dataverse. 
 
 <br>
 
 ## For more general information
-[Email Dataverse.org](mailto:support@dataverse.org) with software installation questions. Please note, response time is generally 24 business hours.
+[Email Dataverse.org](mailto:support@dataverse.org) with software installation questions. Please note, that response time is generally 24 business hours.
 Follow Dataverse.org on Twitter: [@dataverseorg](https://twitter.com/dataverseorg)
 
 <br>
@@ -79,11 +83,15 @@ Follow Dataverse.org on Twitter: [@dataverseorg](https://twitter.com/dataverseor
 ## For developers and Dataverse Repositories
 Report issues and contribute to dataverse.org's code: Report bugs and add feature requests in [GitHub Issues](https://github.com/IQSS/dataverse/issues) or use [GitHub pull requests](http://guides.dataverse.org/en/latest/developers/version-control.html#how-to-make-a-pull-request), if you have some code, scripts or documentation that you'd like to share. If you have a security issue to report, please email [security@dataverse.org](mailto:security@dataverse.org).
 
-Ask a question or start a discussion: Great place to publicly share feedback, ideas, feature requests, and troubleshoot any issues is in the [Dataverse Users Community](https://groups.google.com/forum/#!forum/dataverse-community).
+Ask a question or start a discussion: A great place to publicly share feedback, ideas, feature requests, and troubleshoot any issues is in the [Dataverse Users Community](https://groups.google.com/forum/#!forum/dataverse-community).
 
-Join #dataverse on [chat.dataverse.org](http://chat.dataverse.org/) to chat with the Dataverse community in real time, or leave a message that will be logged at https://view.matrix.org/alias/%23dataverse:matrix.org
+Join #dataverse on [chat.dataverse.org](http://chat.dataverse.org/) to chat with the Dataverse community in real-time, or leave a message that will be logged at https://view.matrix.org/alias/%23dataverse:matrix.org
 
-[![Dataverse Chat on Matrix](https://img.shields.io/badge/join-matrix-blue.svg?style=for-the-badge)](https://view.matrix.org/alias/%23dataverse:matrix.org)
+<div align="center">
+ 
+The Official Dataverse chat <br> [![Dataverse Chat on Matrix](https://img.shields.io/badge/join-Dataverse-blue.svg?style=for-the-badge)](https://chat.dataverse.org/)
+
+</div>
 
 <br>
 
